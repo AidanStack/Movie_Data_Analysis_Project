@@ -1,9 +1,7 @@
 # Jupiter Analytics Recommendations for Microsoft Studios
 
 This repo contains:
- Our collaborative Jupyter Notebook, which contains our code 
- The raw data files used in our analysis 
- Our presentation we made to deliver to the Microsoft Studio's team 
+ Our collaborative Jupyter Notebook, which contains our code , the raw data files used in our analysis, and our presentation we made to deliver to the Microsoft Studio team 
 
 
 ## Analysis Goals
