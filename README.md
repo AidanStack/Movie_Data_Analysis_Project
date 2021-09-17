@@ -39,3 +39,6 @@ This repo contains:
   ## Final Recommendations
   
   Once we compiled all of the most successful studios, genres, and personnel, a clear trend emerged. The highest performing, most popular films come from well known franchises. Whether it be action and adventure coming out on top as the most popular genres, Disney crushing the competition based on revenue, or Kevin Feige, Rober Downey Junior, and the Russo brothers leading their job categories, it is clear that Microsoft should focus on acquiring beloved and well known intellectual properties. This could be achieved by merging with or purchasing an already exisiting studio like lionsgate, or the acquisition of the rights to well known IP's outright. Obviously Microsoft Studios will have to fill out its catalogue with films at all budget levels, but we believe the main draw for Microsoft's new streaming platform will be these large budget franchise films.
+  
+  We also noticed the effect of biased hiring practices within the film industry, and we feel there is a huge opportunity for microsoft to lead the industry in fair hiring and pay practices. This combination of high budget action adventure films, adapted from well known intellectual properties, and a diverse cast and crew will set Microsoft Studios apart from its competitors and generate massive value for Microsoft platforms. 
+  
