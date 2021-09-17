@@ -1,5 +1,11 @@
 # Jupiter Analytics Recommendations for Microsoft Studios
 
+This repo contains:
+ Our collaborative Jupyter Notebook, which contains our code 
+ The raw data files used in our analysis 
+ Our presentation we made to deliver to the Microsoft Studio's team 
+
+
 ## Analysis Goals
   
   Our team was tasked by Microsoft to advise their fledgling studio on what types of movies would be the most successful. 
